@@ -1,0 +1,5 @@
+Ein browserbasiertes Dame-Spiel mit einem modernen, visuell ansprechenden Design und flüssigen Animationen.
+
+Du kannst zwischen zwei Spielmodi wählen: "Spieler vs Spieler" für eine Partie gegen einen Freund am selben Gerät oder "Spieler vs KI", um gegen den Computer anzutreten. Die Stärke des KI-Gegners lässt sich in mehreren Stufen (Einfach, Normal, Schwer, Experte) einstellen.
+
+Das Spiel folgt den klassischen Dame-Regeln, inklusive der wichtigen Schlagpflicht – wenn ein Stein geschlagen werden kann, muss dieser Zug ausgeführt werden. Erreicht ein Spielstein die gegnerische Grundlinie, wird er zur Dame befördert. Spielaktionen wie Züge, Schläge oder die Ernennung zur Dame werden von Soundeffekten untermalt. Eine klare Benutzeroberfläche zeigt stets an, wer am Zug ist und wie viele Steine jede Partei noch besitzt. Am Ende einer Partie wird der Gewinner in einem Pop-up-Fenster bekannt gegeben.
